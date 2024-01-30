@@ -1,3 +1,5 @@
+this.firstName = 'Grace';
+this.lastName = 'Hopper';
 const o = {
     msg: 'An object',
     person: {
